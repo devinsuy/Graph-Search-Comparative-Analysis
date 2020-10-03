@@ -1,0 +1,10 @@
+Solving:  smallMaze.lay
+Start @ # 77    Goal @ # 177
+
+A* Solution Found!
+------------------
+Path:  [77, 78, 79, 101, 123, 122, 144, 166, 165, 164, 186, 185, 184, 183, 182, 181, 180, 179, 178, 177]
+
+Solution Length:  20
+Number of Expanded Nodes:  53
+Max Fringe Size:  7

@@ -1,0 +1,36 @@
+Solving:  smallMaze.lay
+Start @ # 77    Goal @ # 177
+
+DFS First Solution Found!
+-------------------------
+[77, 78, 79, 101, 123, 124, 125, 126, 148, 149, 150, 128, 129, 130, 152, 174, 196, 195, 194, 193, 192, 191, 190, 189, 167, 166, 165, 164, 186, 185, 184, 183, 182, 181, 180, 179, 178, 177]
+Solution Length:  38
+
+(DFS First Solution) Number of Expanded Nodes:  92
+(DFS First Solution) Max Fringe Size:  45
+
+
+DFS Solution # 1
+----------------
+Solution Length:  38
+
+DFS Solution # 2
+----------------
+Solution Length:  20
+
+DFS Solution # 3
+----------------
+Solution Length:  30
+
+DFS Solution # 4
+----------------
+Solution Length:  50
+
+(DFS Exhaustive) Number of Expanded Nodes:  220
+(DFS Exhaustive) Max Fringe Size:  49
+
+
+All solutions written to : output\DFS\DFS_All_small_Solutions
+
+Optimal DFS solution located, length:  20
+Optimal solution written to:  output\DFS \ small_DFS_Optimal_Solution.lay

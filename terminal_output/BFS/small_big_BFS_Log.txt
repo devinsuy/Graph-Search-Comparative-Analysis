@@ -1,0 +1,23 @@
+Solving:  smallMaze.lay
+Start @ # 77    Goal @ # 177
+
+BFS First Solution
+------------------
+Path:  [77, 78, 79, 101, 123, 122, 144, 166, 165, 164, 186, 185, 184, 183, 182, 181, 180, 179, 178, 177]
+Solution Length:  20
+
+(BFS First Solution) Number of Expanded Nodes:  95
+(BFS First Solution) Max Fringe Size:  8
+
+(BFS Exhaustive) Solution # 1  length:  50
+(BFS Exhaustive) Solution # 2  length:  30
+(BFS Exhaustive) Solution # 3  length:  20
+(BFS Exhaustive) Solution # 4  length:  38
+
+(BFS Exhaustive) Number of Expanded Nodes:  220
+(BFS Exhaustive) Max Fringe Size:  7
+
+All solutions written to : output\DFS\DFS_All_small_Solutions
+
+Optimal BFS solution located, length:  20
+Optimal solution written to:  output\BFS \ small_BFS_Optimal_Solution.lay

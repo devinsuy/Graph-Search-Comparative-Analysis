@@ -1,0 +1,72 @@
+Solving:  mediumMaze.lay
+Start @ # 70    Goal @ # 577
+
+BFS First Solution
+------------------
+Path:  [70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 97, 133, 134, 135, 171, 207, 243, 242, 241, 240, 204, 203, 202, 201, 200, 236, 272, 308, 309, 310, 311, 312, 313, 314, 315, 351, 387, 423, 459, 495, 531, 567, 566, 565, 564, 563, 562, 561, 
+560, 559, 558, 557, 556, 555, 554, 553, 552, 551, 550, 586, 585, 584, 583, 582, 581, 580, 579, 578, 577]
+Solution Length:  69
+
+(BFS First Solution) Number of Expanded Nodes:  276
+(BFS First Solution) Max Fringe Size:  8
+
+(BFS Exhaustive) Solution # 1  length:  131
+(BFS Exhaustive) Solution # 2  length:  131
+(BFS Exhaustive) Solution # 3  length:  153
+(BFS Exhaustive) Solution # 4  length:  165
+(BFS Exhaustive) Solution # 5  length:  163
+(BFS Exhaustive) Solution # 6  length:  175
+(BFS Exhaustive) Solution # 7  length:  135
+(BFS Exhaustive) Solution # 8  length:  135
+(BFS Exhaustive) Solution # 9  length:  103
+(BFS Exhaustive) Solution # 10  length:  115
+(BFS Exhaustive) Solution # 11  length:  111
+(BFS Exhaustive) Solution # 12  length:  123
+(BFS Exhaustive) Solution # 13  length:  71 
+(BFS Exhaustive) Solution # 14  length:  105
+(BFS Exhaustive) Solution # 15  length:  117
+(BFS Exhaustive) Solution # 16  length:  113
+(BFS Exhaustive) Solution # 17  length:  125
+(BFS Exhaustive) Solution # 18  length:  69
+(BFS Exhaustive) Solution # 19  length:  75
+(BFS Exhaustive) Solution # 20  length:  143
+(BFS Exhaustive) Solution # 21  length:  155
+(BFS Exhaustive) Solution # 22  length:  151
+(BFS Exhaustive) Solution # 23  length:  163
+(BFS Exhaustive) Solution # 24  length:  225
+(BFS Exhaustive) Solution # 25  length:  237
+(BFS Exhaustive) Solution # 26  length:  235
+(BFS Exhaustive) Solution # 27  length:  247
+(BFS Exhaustive) Solution # 28  length:  143
+(BFS Exhaustive) Solution # 29  length:  155
+(BFS Exhaustive) Solution # 30  length:  151
+(BFS Exhaustive) Solution # 31  length:  163
+(BFS Exhaustive) Solution # 32  length:  223
+(BFS Exhaustive) Solution # 33  length:  235
+(BFS Exhaustive) Solution # 34  length:  233
+(BFS Exhaustive) Solution # 35  length:  245
+(BFS Exhaustive) Solution # 36  length:  77
+(BFS Exhaustive) Solution # 37  length:  145
+(BFS Exhaustive) Solution # 38  length:  157
+(BFS Exhaustive) Solution # 39  length:  153
+(BFS Exhaustive) Solution # 40  length:  165
+(BFS Exhaustive) Solution # 41  length:  227
+(BFS Exhaustive) Solution # 42  length:  239
+(BFS Exhaustive) Solution # 43  length:  237
+(BFS Exhaustive) Solution # 44  length:  249
+(BFS Exhaustive) Solution # 45  length:  145
+(BFS Exhaustive) Solution # 46  length:  157
+(BFS Exhaustive) Solution # 47  length:  153
+(BFS Exhaustive) Solution # 48  length:  165
+(BFS Exhaustive) Solution # 49  length:  225
+(BFS Exhaustive) Solution # 50  length:  237
+(BFS Exhaustive) Solution # 51  length:  235
+(BFS Exhaustive) Solution # 52  length:  247
+
+(BFS Exhaustive) Number of Expanded Nodes:  648
+(BFS Exhaustive) Max Fringe Size:  11
+
+All solutions written to : output\DFS\DFS_All_medium_Solutions
+
+Optimal BFS solution located, length:  69
+Optimal solution written to:  output\BFS \ medium_BFS_Optimal_Solution.lay
