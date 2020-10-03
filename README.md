@@ -1,7 +1,7 @@
 # Graph-Search-Comparative-Analysis
 
 Artifical Intelligence maze solver inspired by Berkeley CS 188 Repository: https://inst.eecs.berkeley.edu/~cs188/sp11/projects/search/search.html
-Generates a graph from a maze representation and implements A*, BFS, DFS traversal to gelerate solution pathways.
+Generates a graph from a maze representation and implements A*, BFS, DFS traversal to generate solution pathways.
 
 Analysis (see Analysis_Report.pdf)
 --------
