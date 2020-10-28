@@ -5,7 +5,7 @@ Generates a graph from a maze representation and implements A*, BFS, DFS travers
 
 Analysis (see Analysis_Report.pdf)
 --------
-BFS and DFS are exhaustive but reach solutions in different order, first returned solution not necessarily optimal
+BFS and DFS are exhaustive algorithms but reach solutions in different order, first returned solution not necessarily optimal
 A* search uses manhattan distance between regions of maze as heuristic function
 Logging is kept of:
   - Generated solution paths and cost
